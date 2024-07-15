@@ -32,7 +32,7 @@ const About = () => {
           </p>
         </div>
       </div>
-      <Location />
+  
       <BlogsComp />
     </>
   );
